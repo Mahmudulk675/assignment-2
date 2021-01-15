@@ -30,6 +30,9 @@ span{
 .shoe{
     color: rgb(255, 136, 0);
 }
+.hot-trend-text{
+    margin-top: 50px;
+}
 .facilities{
     color: rgb(68, 0, 255);
     text-align: center;
@@ -39,4 +42,14 @@ span{
 .btn:hover{
     background-color: rgb(255, 139, 7);
     border: none;
+}
+.extra-bg{
+    background-color: rgba(230, 236, 204, 0.781);
+    
+}
+.more-shoes h1{
+    color:orange;
+}
+.all-slide{
+    background-color: rgb(241, 236, 241);
 }
