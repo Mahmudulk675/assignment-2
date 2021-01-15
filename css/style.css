@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(241, 241, 237);
+}
+.logo{
+    width: 250px;
+}
+.heading-text-1{
+    color: orangered;
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 50px;   
+}
+.heading-right{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 500px;
+}
+.heading-left{
+    width: 500px;
+}
+.cart{
+    width: 40px;
+}
+span{
+    font-size: 40px;
+    color:orangered;
+    font-weight: 600;
+}
+.shoe{
+    color: rgb(255, 136, 0);
+}
+.facilities{
+    color: rgb(68, 0, 255);
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.btn:hover{
+    background-color: rgb(255, 139, 7);
+    border: none;
+}
